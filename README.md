@@ -1,8 +1,18 @@
 # ToDo-Web-App
 Python-Flask Static Web App Created with Python, SCSS, CSS and HTML
 
+# Features
 
+Signup and User Authentication with OTP ( SMS )
+Twilio API for messaging
+Task Reminder through Message ( SMS )
+Verification of Phone Number through SMS
+CRUD operations can be performed on Tasks, Notes
+Excel sheet can be imported as tasks
+Serverless Model
+Inc. of Exception Handling
 
+# Get Started
 1. Create virtual enivroment with terminal in the folder where project is stored :
 '''
   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
